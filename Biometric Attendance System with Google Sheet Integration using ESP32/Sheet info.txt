@@ -1,0 +1,5 @@
+Sheet ID : 1VpjhqrUHi9BQGGktxSSj2lSO_fWQ23gnmul4Fz1aVrM
+Sheet link : https://docs.google.com/spreadsheets/d/1VpjhqrUHi9BQGGktxSSj2lSO_fWQ23gnmul4Fz1aVrM/edit#gid=0
+
+Google Script ID : AKfycbw86a53EKKPSCkPoV6LuEa4Glc6nfqHNP774qf5NGx_RjeArp0Unw9pGq_jfT9pwZD_
+Web App : https://script.google.com/macros/s/AKfycbw86a53EKKPSCkPoV6LuEa4Glc6nfqHNP774qf5NGx_RjeArp0Unw9pGq_jfT9pwZD_/exec
